@@ -22,3 +22,6 @@ Muduli esterni, scaricabili con il comando "pip3 install name":
 ## Setup
 Per eseguire tale programma si deve eseguire il programma da terminale con il comando py(per windows),python(linux)
 es. py "C:\Users\User\Forza4Client.py"
+
+
+![Screenshot 2022-04-21 165615](https://user-images.githubusercontent.com/90908021/164487386-6f073180-7988-4b48-996e-a4bd9d9d5eaa.jpg)
